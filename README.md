@@ -1,2 +1,2 @@
-# 4lisyd.github.io-GoogleKeepsForMac
+# 4lisyd.github.io/GoogleKeepsForMac
 Google Keeps For Mac OS
